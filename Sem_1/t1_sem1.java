@@ -5,14 +5,25 @@
 
 package Sem_1;
 
+import java.util.Scanner;
+
 public class t1_sem1 {
     public static void main(String[] args) throws Exception {
-        System.out.println("dhgdlkgh");
+        // System.out.println("dhgdlkgh");
 
-        System.out.println("sdfsfsfsdfs");
+        task1();
+        
 
+    }
 
+    private static void task1() {
+        Scanner iScanner = new Scanner(System.in);
 
+        System.out.printf("Введите имя ");
+        String name = iScanner.nextLine();
+        System.out.printf("Привет, %s!\n", name);
+
+        System.out.println("Привет, " + name + "!");
     }
     
     
