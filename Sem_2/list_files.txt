@@ -1,0 +1,28 @@
+App.java
+Расширение файла: .java
+hw1_sem2.java
+Расширение файла: .java
+hw2_sem2.java
+Расширение файла: .java
+hw3_sem3.java
+Расширение файла: .java
+hw4_sem2.java
+Расширение файла: .java
+lect_2.java
+Расширение файла: .java
+list_files.txt
+Расширение файла: .txt
+T1_sem2.java
+Расширение файла: .java
+T2_sem2.java
+Расширение файла: .java
+T3_sem2.java
+Расширение файла: .java
+T4_sem2.java
+Расширение файла: .java
+T5_sem2.java
+Расширение файла: .java
+T6_sem2.java
+Расширение файла: .java
+test.txt
+Расширение файла: .txt
