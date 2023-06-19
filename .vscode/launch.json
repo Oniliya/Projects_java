@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "Task0_sem3",
+            "request": "launch",
+            "mainClass": "Solution.Task0_sem3",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "Ex01_object",
+            "request": "launch",
+            "mainClass": "Sem_3.Ex01_object",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw4_sem2",
+            "request": "launch",
+            "mainClass": "Sem_2.hw4_sem2",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw3_sem3",
+            "request": "launch",
+            "mainClass": "Sem_2.hw3_sem3",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw2_sem2",
+            "request": "launch",
+            "mainClass": "Sem_2.hw2_sem2",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw1_sem2",
+            "request": "launch",
+            "mainClass": "Sem_2.hw1_sem2",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "hw1_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.hw1_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw2_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.hw2_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw3_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.hw3_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "hw4_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.hw4_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t1_plus_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t1_plus_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t1_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t1_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t2_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t2_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t3_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t3_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t4_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t4_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t5_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t5_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t6_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t6_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t8_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t8_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t9_sem1",
+            "request": "launch",
+            "mainClass": "Sem_1.t9_sem1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "Sem_2.App",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "lect_2",
+            "request": "launch",
+            "mainClass": "Sem_2.lect_2",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "Projects_java_e69bcdf"
+        }
+    ]
+}
