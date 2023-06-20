@@ -72,4 +72,6 @@ public class hw2_sem2 {
         Integer res = Integer.valueOf(number);
         return res;
     }
+
+
 }
