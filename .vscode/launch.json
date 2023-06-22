@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Sem_4.Ex01",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
             "name": "hw3_sem3",
             "request": "launch",
             "mainClass": "hw3_sem3",
