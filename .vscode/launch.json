@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "SortHeap.Main",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
             "name": "t1_sem6",
             "request": "launch",
             "mainClass": "t1_sem6",
