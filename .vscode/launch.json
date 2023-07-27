@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Algoritmic_Java.lesson3.Main",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Algoritmic_Java.lesson3.src.main.java.ru.geekbrains.lesson4.Node",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "SortHeap.Main",
             "projectName": "Projects_java_e69bcdf"
         },
