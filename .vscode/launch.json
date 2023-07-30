@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "t3",
+            "request": "launch",
+            "mainClass": "t3",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "t1",
+            "request": "launch",
+            "mainClass": "t1",
+            "projectName": "Projects_java_e69bcdf"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "ru.geekbrains.lesson4.Program",
+            "projectName": "lesson3"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Algoritmic_Java.lesson3.Main",

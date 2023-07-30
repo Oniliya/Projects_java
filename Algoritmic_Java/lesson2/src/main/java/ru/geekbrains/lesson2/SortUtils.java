@@ -1,4 +1,4 @@
-package Algoritmic_Java.lesson2.src.main.java.ru.geekbrains.lesson2;
+package ru.geekbrains.lesson2;
 
 public class SortUtils {
 

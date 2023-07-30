@@ -1,4 +1,4 @@
-package Algoritmic_Java.lesson3.src.main.java.ru.geekbrains.lesson4;
+package ru.geekbrains.lesson4;
 
 import java.util.Comparator;
 
