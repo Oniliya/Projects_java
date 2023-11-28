@@ -1,0 +1,61 @@
+* {
+
+	@font-face { 
+		font-family: "GilroyThin";
+		src: url("fonts/GilroyThin.eot");
+		src: url("fonts/GilroyThin.eot?#iefix")format("embedded-opentype"),
+		url("fonts/GilroyThin.woff") format("woff"),
+		url("fonts/GilroyThin.ttf") format("truetype");
+		font-style: normal;
+		font-weight: 100;
+	}
+
+
+	.line{
+		display: flex;	
+	}
+
+	.block1 { 
+		width: 50%; 
+		height: 15vw;
+		background: #cccccc00;
+		padding: 5px;
+		padding-right: 20px; 
+		border: solid 0px black; 
+	}
+
+	.block2 { 
+		width: 50%; 
+		height: 15vw;
+		background: #cccccc00; 
+		padding: 5px; 
+		padding-right: 20px;
+		border: solid 0px black; 
+	}
+
+	.block3 {
+		width: 50%; 
+		background: #cccccc00; 
+		padding: 5px; 
+		padding-right: 20px;
+		border: solid 0px black; 		
+
+	}
+
+	.block4 {
+		width: 50%; 
+		background: #cccccc00; 
+		padding: 5px; 
+		padding-right: 20px;
+		border: solid 0px black; 
+	}
+
+	.footer {
+		width: 100%; 
+		background: #cccccc00; 
+		padding: 5px; 
+		padding-right: 20px;
+		border: solid 0px black; 		
+	}
+
+}
